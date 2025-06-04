@@ -10,7 +10,7 @@ public class a2_under25g
         System.out.print("Enter your full name: ");
         String name = sc.nextLine();
         
-        System.out.print("Enter departure city: ");
+        System.out.print("Enter boarding city: ");
         String from = sc.nextLine();
         
         System.out.print("Enter destination city: ");
