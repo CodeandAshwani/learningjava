@@ -1,7 +1,7 @@
 import java.util.*;
 public class a7Calculator {
     public static void main(String[] args) {
-        Scanner sc= new Scanner(System.in);
+            try (Scanner sc = new Scanner(System.in)) {
         System.out.print("Enter a number: ");
         double a= sc.nextDouble();
         System.out.print("Enter the operation (+,-,*,/):  ");
@@ -27,4 +27,5 @@ public class a7Calculator {
 
     }
     
+}
 }

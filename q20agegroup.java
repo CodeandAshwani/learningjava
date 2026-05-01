@@ -1,7 +1,7 @@
 import java.util.Scanner;
-public class q20agegroup {
+class q20agegroup {
     public static void main(String[] args) {
-        Scanner sc= new Scanner(System.in);
+           try (Scanner sc = new Scanner(System.in)) {
         System.out.println("Enter your age");
         int a= sc.nextInt();
         if(a>0 && a<13) {
@@ -20,4 +20,5 @@ public class q20agegroup {
             System.out.println("Invalid age");
         }
     }
+}
 }
