@@ -2,7 +2,7 @@ import java.util.*;
 public class q11triangle {
     public static void main(String[] args) {
     Scanner sc= new Scanner(System.in);
-    System.out.println("enter the base of thetriangle: ");
+    System.out.println("enter the base of the triangle: ");
     double b= sc.nextDouble();
     System.out.println("enter the height of thetriangle: ");
     double h= sc.nextDouble();
