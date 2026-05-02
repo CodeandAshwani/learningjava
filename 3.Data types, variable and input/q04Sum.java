@@ -1,5 +1,5 @@
 import java.util.*;
-public class q4Sum { 
+public class q04Sum { 
    
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);

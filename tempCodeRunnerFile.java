@@ -1,1 +1,0 @@
-    try (Scanner sc = new Scanner(System.in)) {

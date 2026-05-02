@@ -1,5 +1,5 @@
 import java.util.*;
-public class q9_product {
+public class q09product {
 public static void main(String[] args) {
     Scanner sc= new Scanner(System.in);
     System.out.println("Enter two numbers ");
