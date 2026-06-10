@@ -5,55 +5,34 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="04de6cf9-b202-4f3d-b32e-14b6d288339b" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/learningjava.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/learningjava/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/learningjava/a2_under25g.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/learningjava/a3mod.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/learningjava/a4_order.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/learningjava/a5_short.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/learningjava/a8booleanifelse.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/learningjava/comments.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/learningjava/function.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/learningjava/function2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/learningjava/intro/a6_unary.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/learningjava/intro/a7Calculator.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/learningjava/loop.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/learningjava/parameter.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/learningjava/practicepattern1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/learningjava/practicepattern2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/learningjava/q01HelloWorld.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/learningjava/q03Pattern.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/learningjava/q04Sum.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/learningjava/q05welcome.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/learningjava/q07Swap.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/learningjava/q08arithmatic.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/learningjava/q09product.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/learningjava/q10perimeter.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/learningjava/q11triangle.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/learningjava/q12SimpleIntrest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/learningjava/q13compound.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/learningjava/q14temperature.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/learningjava/q15numbersign.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/learningjava/q16oddeven.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/learningjava/q17greatest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/learningjava/q18leapyear.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/learningjava/q19grade.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/learningjava/q20agegroup.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/learningjava/q21bitwiseAND.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/learningjava/q22bitwiseOR.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/learningjava/q23bitwiseXOR.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/learningjava/q24bitwisecompliment.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/learningjava/q25leftshift.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/learningjava/q26rightshift.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/learningjava/q27bitwiseevenodd.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/learningjava/q28table.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/learningjava/q29summOdd.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/learningjava/returnfunction.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/5.While loops, methods, and arrays/Return.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/5.While loops, methods, and arrays/funchtion3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/5.While loops, methods, and arrays/function.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/5.While loops, methods, and arrays/function1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/5.While loops, methods, and arrays/function2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/5.While loops, methods, and arrays/loop.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/5.While loops, methods, and arrays/ok.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/5.While loops, methods, and arrays/parameter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/5.While loops, methods, and arrays/pattern2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/5.While loops, methods, and arrays/practicepattern1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/5.While loops, methods, and arrays/practicepattern2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/5.While loops, methods, and arrays/q28table.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/5.While loops, methods, and arrays/q29summOdd.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/5.While loops, methods, and arrays/q30Factorial.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/5.While loops, methods, and arrays/returnfunction.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -70,60 +49,60 @@
   <component name="NextEditCompletionFeaturesState">
     <decayedCancelled>
       <entry key="MS100" value="1.0" />
-      <entry key="MS500" value="1.0000001240056524" />
-      <entry key="S2" value="1.0787975667398952" />
-      <entry key="S5" value="2.160839137138414" />
-      <entry key="S10" value="3.849707480788967" />
-      <entry key="S30" value="6.528009249783628" />
-      <entry key="S60" value="9.803169878735822" />
-      <entry key="M2" value="15.837500391860857" />
-      <entry key="M5" value="24.476230751175635" />
-      <entry key="M10" value="29.0729336481" />
-      <entry key="M15" value="30.881964287513355" />
-      <entry key="M30" value="32.85232622615787" />
-      <entry key="H1" value="33.902935435831445" />
-      <entry key="H2" value="34.44552181200711" />
-      <entry key="H4" value="34.72125666419851" />
-      <entry key="D1" value="34.95333232842365" />
-      <entry key="W1" value="34.9933280158915" />
+      <entry key="MS500" value="1.0" />
+      <entry key="S2" value="1.0" />
+      <entry key="S5" value="1.0000000000001157" />
+      <entry key="S10" value="1.000000744676898" />
+      <entry key="S30" value="1.0275501041553619" />
+      <entry key="S60" value="1.424870001848282" />
+      <entry key="M2" value="2.859535346669444" />
+      <entry key="M5" value="7.192509744796075" />
+      <entry key="M10" value="18.232191131707793" />
+      <entry key="M15" value="32.11309036792731" />
+      <entry key="M30" value="65.60868080895311" />
+      <entry key="H1" value="98.29700192761376" />
+      <entry key="H2" value="121.48767541094847" />
+      <entry key="H4" value="135.35170582218302" />
+      <entry key="D1" value="148.2582875383532" />
+      <entry key="W1" value="150.60491795721478" />
     </decayedCancelled>
     <decayedSelected>
       <entry key="MS100" value="0.0" />
       <entry key="MS500" value="0.0" />
-      <entry key="S2" value="0.0" />
-      <entry key="S5" value="0.0" />
-      <entry key="S10" value="0.0" />
-      <entry key="S30" value="0.0" />
-      <entry key="S60" value="0.0" />
-      <entry key="M2" value="0.0" />
-      <entry key="M5" value="0.0" />
-      <entry key="M10" value="0.0" />
-      <entry key="M15" value="0.0" />
-      <entry key="M30" value="0.0" />
-      <entry key="H1" value="0.0" />
-      <entry key="H2" value="0.0" />
-      <entry key="H4" value="0.0" />
-      <entry key="D1" value="0.0" />
-      <entry key="W1" value="0.0" />
+      <entry key="S2" value="8.905557837180689E-148" />
+      <entry key="S5" value="2.10133917603712E-59" />
+      <entry key="S10" value="6.372228464536889E-30" />
+      <entry key="S30" value="2.931357327576569E-10" />
+      <entry key="S60" value="2.4201025320923636E-5" />
+      <entry key="M2" value="0.006963866902501234" />
+      <entry key="M5" value="0.22737724313935728" />
+      <entry key="M10" value="0.9225063231824459" />
+      <entry key="M15" value="1.6149660056787334" />
+      <entry key="M30" value="3.012713289206743" />
+      <entry key="H1" value="4.217871455672183" />
+      <entry key="H2" value="5.020877919413599" />
+      <entry key="H4" value="5.486031090980897" />
+      <entry key="D1" value="5.910723313910486" />
+      <entry key="W1" value="5.98715455342023" />
     </decayedSelected>
     <decayedShown>
-      <entry key="MS100" value="0.9330329915368074" />
-      <entry key="MS500" value="0.9862328263655326" />
-      <entry key="S2" value="1.0749935538306914" />
-      <entry key="S5" value="2.157439871842078" />
-      <entry key="S10" value="3.8465506557209737" />
-      <entry key="S30" value="6.526226824117245" />
-      <entry key="S60" value="9.801928722549532" />
-      <entry key="M2" value="15.836556152132777" />
-      <entry key="M5" value="24.47565431411949" />
-      <entry key="M10" value="29.072590035318086" />
-      <entry key="M15" value="30.88172041844451" />
-      <entry key="M30" value="32.852196159484194" />
-      <entry key="H1" value="33.90286821920732" />
-      <entry key="H2" value="34.44548763792203" />
-      <entry key="H4" value="34.72123943314188" />
-      <entry key="D1" value="34.953329436357045" />
-      <entry key="W1" value="34.99332760224092" />
+      <entry key="MS100" value="0.001847768841260929" />
+      <entry key="MS500" value="0.2840073161966716" />
+      <entry key="S2" value="0.7300160053272609" />
+      <entry key="S5" value="0.8817245899856554" />
+      <entry key="S10" value="0.9390026065171919" />
+      <entry key="S30" value="1.0061570139578593" />
+      <entry key="S60" value="1.4095505111810838" />
+      <entry key="M2" value="2.850709704107193" />
+      <entry key="M5" value="7.4033400022198315" />
+      <entry key="M10" value="19.136476309071362" />
+      <entry key="M15" value="33.709661959009445" />
+      <entry key="M30" value="68.60602466227913" />
+      <entry key="H1" value="102.50456644088491" />
+      <entry key="H2" value="126.50253300573162" />
+      <entry key="H4" value="140.83447668803947" />
+      <entry key="D1" value="154.16842952495702" />
+      <entry key="W1" value="156.591988489323" />
     </decayedShown>
   </component>
   <component name="ProjectColorInfo">{
@@ -131,14 +110,22 @@
   &quot;fromUser&quot;: false
 }</component>
   <component name="ProjectId" id="3EcFCZVZnCvY8hXPvn16cNElZsj" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.Q30Factorial.executor": "Run",
+    "Application.q07Swap.executor": "Run",
+    "Application.q21bitwiseAND.executor": "Run",
     "Application.q28table.executor": "Run",
     "Application.q29summOdd.executor": "Run",
+    "Application.q30Factorial.executor": "Run",
+    "Application.q30Factorial.java.executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
@@ -155,10 +142,73 @@
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
     "to.speed.mode.migration.done": "true",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RunManager" selected="Application.Q30Factorial">
+    <configuration name="Q30Factorial" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Q30Factorial" />
+      <module name="learningjava" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="q07Swap" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="q07Swap" />
+      <module name="learningjava" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="q21bitwiseAND" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="q21bitwiseAND" />
+      <module name="learningjava" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="q28table" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="q28table" />
+      <module name="learningjava" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="q29summOdd" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="q29summOdd" />
+      <module name="learningjava" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="q30Factorial" type="Application" factoryName="Application" activateToolWindowBeforeRun="false" nameIsGenerated="true">
+      <option name="ALTERNATIVE_JRE_PATH" value="/Library/Java/JavaVirtualMachines/jdk-26.jdk/Contents/Home" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="MAIN_CLASS_NAME" value="q30Factorial" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="q30Factorial.java" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="q30Factorial" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Q30Factorial" />
+        <item itemvalue="Application.q28table" />
+        <item itemvalue="Application.q21bitwiseAND" />
+        <item itemvalue="Application.q07Swap" />
+        <item itemvalue="Application.q29summOdd" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -175,11 +225,26 @@
       <option name="presentableId" value="Default" />
       <updated>1780469824919</updated>
       <workItem from="1780469828563" duration="1404000" />
-      <workItem from="1781105457510" duration="657000" />
+      <workItem from="1781105457510" duration="4348000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/5.While loops, methods, and arrays/returnfunction.java</url>
+          <line>16</line>
+          <properties class="returnfunction" method="readnumber">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
