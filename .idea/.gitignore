@@ -1,10 +1,8 @@
-# Default ignored files
-/shelf/
-/workspace.xml
-# Editor-based HTTP Client requests
-/httpRequests/
-# Ignored default folder with query files
-/queries/
-# Datasource local storage ignored files
-/dataSources/
-/dataSources.local.xml
+# Ignore all compiled Java class files
+*.class
+
+# Ignore build directories (like bin/ or target/ depending on your IDE)
+bin/
+build/
+target/
+
